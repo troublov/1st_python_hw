@@ -7,7 +7,9 @@ This repository contains small Python script. It takes only two floats and power
 You can use *--help* to read help file with specification.
 
 Here is the example of how it works:
+```ruby
 python3 mini_argparse.py -n 2 -p 4.5
+```
 
 
 So the sequence is as follows:
